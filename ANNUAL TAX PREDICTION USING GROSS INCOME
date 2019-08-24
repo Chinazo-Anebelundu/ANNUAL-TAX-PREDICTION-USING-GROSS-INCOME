@@ -1,0 +1,4 @@
+Trained 2 models - Linear regression model and random forest regression.
+Random forest model performed better with a ROOT MEAN SQUARED ERROR: 458218.10866324935 while linear regression model had a ROOT MEAN SQUARED ERROR: 381755.3580712063.
+Random forest regression performed better and so we adopted it.
+This work is open to further improvement by group members
